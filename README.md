@@ -9,7 +9,7 @@
   <td width="50%">
 
  <p align = "center">
-  <img src="https://devicon.dev/devicon.git/icons/c/c-plain.svg" alt="c" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  </p>
 
   </td>
@@ -37,7 +37,7 @@
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/><img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   </p>
   </table>
 
